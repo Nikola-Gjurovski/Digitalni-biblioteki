@@ -1,0 +1,21 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file 1.jpg is being processed by ImagePlugin.
+The file 2.jpg is being processed by ImagePlugin.
+The file 3.jpg is being processed by ImagePlugin.
+The file Don Toliver - Company Pt. 3.mp3 is being processed by MP3Plugin.
+The file Don Toliver - Embarrassed.mp3 is being processed by MP3Plugin.
+The file Don Toliver and Kali Uchis Want Their Baby's Name to Represent Both of Them TMZ.mp4 was not recognised by any plugin.
+The file Don Toliver, Trippie Redd - Ain't Safe.mp3 is being processed by MP3Plugin.
+************** Import Finished **************
+7 documents were considered for processing:
+    6 documents were processed and included in the collection.
+    1 was unrecognised.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\RG9uIFRvbGl2ZXIsIFRyaXBwaWUgUmVkZCAtIEFpbid0IFNhZmU=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">3999379</Metadata>
+    <Metadata name="Source">Don Toliver, Trippie Redd - Ain't Safe.mp3</Metadata>
+    <Metadata name="SourceFile">RG9uIFRvbGl2ZXIsIFRyaXBwaWUgUmVkZCAtIEFpbid0IFNhZmU=.mp3</Metadata>
+    <Metadata name="mp3">Don Toliver, Trippie Redd - Ain't Safe</Metadata>
+    <Metadata name="srcurl">RG9uIFRvbGl2ZXIsIFRyaXBwaWUgUmVkZCAtIEFpbid0IFNhZmU=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">RG9uIFRvbGl2ZXIsIFRyaXBwaWUgUmVkZCAtIEFpbid0IFNhZmU=.mp3</Metadata>
+    <Metadata name="srclinkFile">RG9uIFRvbGl2ZXIsIFRyaXBwaWUgUmVkZCAtIEFpbid0IFNhZmU=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Don Toliver, Trippie Redd - Ain't Safe</Metadata>
+    <Metadata name="Identifier">HASHf3e91e70e02eea9c16d399</Metadata>
+    <Metadata name="lastmodified">1715451994</Metadata>
+    <Metadata name="lastmodifieddate">20240511</Metadata>
+    <Metadata name="oailastmodified">1715452319</Metadata>
+    <Metadata name="oailastmodifieddate">20240511</Metadata>
+    <Metadata name="assocfilepath">HASHf3e9.dir</Metadata>
+    <Metadata name="gsdlassocfile">RG9uIFRvbGl2ZXIsIFRyaXBwaWUgUmVkZCAtIEFpbid0IFNhZmU=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
